@@ -1,1 +1,1 @@
-# virtual-pet1
+# class34-project
